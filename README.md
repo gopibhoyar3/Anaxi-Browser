@@ -1,4 +1,5 @@
-# Web Browser Named: Anaxi
+# Web Browser
+# Named: Anaxi
 Hello, I have designed a web browser using Python PyQt5 library. 
 The browser have current feature as:
 1. Back button : Which sends user to the previosly visited page.
